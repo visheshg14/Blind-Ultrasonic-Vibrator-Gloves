@@ -1,0 +1,8 @@
+ Arduino Uno R3 Microcontroller
+ Red LED
+ 1 kΩ Resistor Carbon Resistor with 5% Tolerance
+ Ultrasonic Distance Sensor (HC SR04)
+ Vibration Motor
+ NPN Transistor (BJT)
+ 9V Battery
+ Piezo Piezoelectric buzzer
